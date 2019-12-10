@@ -6,6 +6,7 @@ Seeders
 <br>
 
 -> php artisan db:seed --class=PermissionTableSeeder
+<br>
 -> php artisan db:seed --class=CreateAdminUserSeeder
  <br>
 Defualt User:
