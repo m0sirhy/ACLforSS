@@ -23,3 +23,5 @@ Defualt User:
 Email: admin@gmail.com
 
 Password: 123456
+
+<q>I hope it can help you....</q>
